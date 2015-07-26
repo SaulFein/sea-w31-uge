@@ -1,0 +1,54 @@
+Unix servers are the largest and most sophisticated.
+- industry standard
+- more stable
+- faster
+- more compatible
+- more free
+- more open
+
+What is Unix:
+- operating system
+- multi process
+- multi user
+- developed by Ken Thompson Dennis Ritchie
+- AT&T Bell Labs
+- Released 1973
+- Most Popular: Linux, Darwin (Mac OSX)
+
+Why Unix is so developer friendly:
+- Data as plain text files
+- Many small programs
+- Input-Output redirection
+
+Unix Kernel: Just a program to manage the hardware. Keeps computer safe from hackers
+
+Unix Shell:  User interface, a program,’
+
+
+
+Absolute path start with a /
+Relative paths do not
+
+-no spaces between words for paths
+- \ allows you to have a space in path allows unix to read it as one continuous word.
+-Unix power users don’t use spaces they use – or _
+- MacOSX is a Case insensitive operating system.
+  -write all names in lower cases
+  -
+
+ls –t shows most recent changes
+ls –lt long most recent
+
+you can chain flags together
+
+type in man “ls” give you manual for any command
+
+ls / Documents – shows what is in the directory selected with out changing that directory.
+
+
+History | less “|” = input /output
+
+Redirection operator “>” sends output of command on the left sends to a new file.
+
+
+
