@@ -1,0 +1,5 @@
+git commit –m – always add commit messages
+
+
+modify → add → commit  → push and repeat
+
